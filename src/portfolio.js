@@ -26,7 +26,7 @@ const greeting = {
     "Étudiant ingénieur à l'ENSEEIHT — Énergie & Automatique"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1EAFld2smh0yIycGluJByRruVRic4ABY3/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
